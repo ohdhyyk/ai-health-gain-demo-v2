@@ -33,4 +33,4 @@ We aim to run a **pilot study with a Norwegian academic advisor** to calibrate a
 **Advisory (invited):** Academic supervisor (ICL), Norwegian collaborator (NTNU/UiO)
 
 **Contact**  
-your.email@example.com | Norway / United Kingdom
+yikai.ying23@imperial.ac.uk | Norway / United Kingdom
