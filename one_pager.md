@@ -16,7 +16,7 @@ We provide **two supportive paths**:
 3) The app compares *keep vs improve* and shows the **difference** as a visible gain.
 
 **Example (demo)**  
-> Reducing from **4 → 2 drinking days/week** could yield **+8–12 months** of healthy life.*
+> Reducing from **4 → 2 drinking days/week** could yield **+8~12 months** of healthy life.*
 
 *Educational demo only; not medical advice. Parameters will be calibrated with peer‑reviewed evidence and local data.*
 
